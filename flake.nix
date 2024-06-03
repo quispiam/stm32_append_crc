@@ -36,6 +36,5 @@
           mkdir -p $out/bin
           cp stm32_append_crc $out/bin/
         '';
-      };
     };
 }
